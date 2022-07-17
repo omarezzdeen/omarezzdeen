@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Ezzdeen</h1>
 <h3 align="center">A Mobile developer from Gaza</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarezzdeen" alt="omarezzdeen" /></a> </p>
-
 - 🔭 I’m currently working on [super store](https://github.com/omarezzdeen/super_store_project.git)
 
 - 🌱 I’m currently learning **Flutter And Android**
