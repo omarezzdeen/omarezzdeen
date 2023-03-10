@@ -23,7 +23,7 @@
 <code><img  alt="Android" width="120px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /></code>
 <code><img  alt="Flutter" width="80px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></code>
 <code><img  alt="Unity" width="80px" src="https://yt3.googleusercontent.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj" /></code>
-<code><img  alt="Figma" width="80px" src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" /></code>
+<code><img  alt="Figma" width="80px" src="https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png" /></code>
 <code><img  alt="Git" width="80px" src="https://i.imgur.com/OP1kFw7.png" /></code>
 </br>
 </br>
