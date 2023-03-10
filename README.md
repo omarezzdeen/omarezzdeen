@@ -23,7 +23,8 @@
 <code><img  alt="Android" width="120px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /></code>
 <code><img  alt="Flutter" width="80px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></code>
 <code><img  alt="Unity" width="80px" src="https://yt3.googleusercontent.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj" /></code>
-<code><img  alt="Figma" width="80px" src="https://images.squarespace-cdn.com/content/v1/596fccb9cf81e09fe6c75d31/1619038780600-ZRDWMRP18Y4C0OBFVQ3W/figma-logo.jpeg" /></code>
+<code><img  alt="Figma" width="80px" src="![image](https://user-images.githubusercontent.com/57456722/224233260-11696e28-837d-4d40-bb57-da0d4633d6f1.png)
+" /></code>
 <code><img  alt="Git" width="80px" src="https://i.imgur.com/OP1kFw7.png" /></code>
 </br>
 </br>
