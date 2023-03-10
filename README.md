@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Clubs](https://github.com/omarezzdeen/Clubs)
 
-- 🌱 I’m currently learning **Flutter And Android**
+- 🌱 I’m currently learning **Android And Flutter**
 
 - 👯 I’m looking to collaborate on [flutter](https://github.com/flutter/flutter.git)
 
